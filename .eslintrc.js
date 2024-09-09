@@ -20,4 +20,5 @@ module.exports = {
     },
     plugins: ['bot-whatsapp'],
     extends: ['plugin:bot-whatsapp/recommended'],
+    
 }
